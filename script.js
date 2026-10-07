@@ -11,7 +11,7 @@
 const CONFIG = {
   dataFile: 'data/palm-data.xlsx',
   title: 'GTM - Palm Dibbling Dashboard',
-  updatedOn: '06 Oct 2026',   // <-- CHANGE THIS DATE each time you upload a new Excel file
+  updatedOn: '07 Oct 2026',   // <-- CHANGE THIS DATE each time you upload a new Excel file
   timeZone: 'Asia/Kolkata'    // "Today" is decided in this time zone
 };
 
